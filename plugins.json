@@ -1,0 +1,17 @@
+[
+  {
+    "id": "aws.ManagedDeliveryK8sPlugin",
+    "description": "k8s support for managed delivery",
+    "provider": "https://aws.amazon.com",
+    "releases": [
+      {
+        "version": "0.0.11",
+        "date": "2021-10-14T22:05:11.097725Z",
+        "requires": "clouddriver>=5.0.0,keel>=0.0.0,deck>=0.0.0,igor>=0.0.0",
+        "sha512sum": "c1005ef1407b1e852d23aa4c5aef917ac01262a8f116077ec252744a8f30e05b40eb83758940d8bf9dc921dd721da5aecf6404a71086cc7edbbe86f9e93cf48e",
+        "preferred": false,
+        "url": "https://github.com/nimakaviani/managed-delivery-k8s-plugin/releases/download/0.0.11/managed-delivery-k8s-plugin-0.0.11.zip"
+      }
+    ]
+  }
+]
