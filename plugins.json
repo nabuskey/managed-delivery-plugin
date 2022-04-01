@@ -13,5 +13,20 @@
         "url": "https://github.com/nabuskey/managed-delivery-plugin/raw/main/managed-delivery-k8s-plugin-igor.zip"
       }
     ]
+  },
+  {
+    "id": "aws.ManagedDeliveryK8sPlugin",
+    "description": "k8s support for managed delivery",
+    "provider": "https://aws.amazon.com",
+    "releases": [
+      {
+        "version": "0.0.12",
+        "date": "2022-03-31T22:05:11.097725Z",
+        "requires": "clouddriver>=5.0.0,keel>=0.0.0,deck>=0.0.0,igor>=0.0.0",
+        "sha512sum": "d686a39bb8f1556038519e94b9585c8bb7eebdeeb378ef091d01af3998ffd4c5b1ee156ddda076508c7c67fe1e1de98c11588fa4df25d8baa3706525d43fd4cb",
+        "preferred": false,
+        "url": "https://github.com/nabuskey/managed-delivery-plugin/raw/main/managed-delivery-k8s-plugin-0.0.12.zip"
+      }
+    ]
   }
 ]
